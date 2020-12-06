@@ -1,0 +1,22 @@
+{
+  "name": "jest-study",
+  "version": "1.0.0",
+  "description": "Jest study\r ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHJcode/Jest-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KHJcode/Jest-study/issues"
+  },
+  "homepage": "https://github.com/KHJcode/Jest-study#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
